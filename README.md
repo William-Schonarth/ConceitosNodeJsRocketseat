@@ -1,2 +1,3 @@
-# ConceitosNodeJsRocketseat
-Desafio: Conceitos do Node.js 
+# Concept NodeJS
+
+Repository with the first challenge from Rocketseat GoStack bootcamp.
